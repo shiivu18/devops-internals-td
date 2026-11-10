@@ -1,1 +1,3 @@
 Project manager started the project
+
+developer 1 succesfully built frontend
